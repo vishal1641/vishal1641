@@ -39,5 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Watch snake eating my Github Contribution
-![snake animation](https://github.com/<seu vishal1641>/<seu vishal1641>/blob/output/github-contribution-grid-snake2.svg)
+
